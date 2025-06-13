@@ -1,7 +1,5 @@
 # vanapad
 
-![vanapad](imgur.com image replace me!)
-
 *A minivan keyboard with small southpaw numpad and wireless capabilities.*
 
 * Keyboard Maintainer: [kilipan](https://github.com/kilipan)
