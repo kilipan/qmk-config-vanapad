@@ -25,7 +25,8 @@ Enter the bootloader in 3 ways:
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
 
 ## Vial support
+Ready-to-flash Vial firmware is provided as `padavan_vial.uf2`.
 
-To compile the Vial firmware, you may use `make vanapad:vial` in your `vial-qmk` directory.
+If you want to compile the Vial firmware yourself, you may use `make vanapad:vial` in your `vial-qmk` directory.
 Also see [the `vial` keymap directory](https://github.com/kilipan/qmk-config-vanapad/tree/main/keymaps/vial).
 For further details please consult the [Vial docs](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment).
